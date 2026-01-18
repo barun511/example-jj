@@ -1,1 +1,5 @@
 Example commit 1
+
+random commit
+
+Example commit 2
